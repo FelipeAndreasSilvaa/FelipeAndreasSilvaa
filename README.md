@@ -40,17 +40,6 @@
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 ![Scrum](https://img.shields.io/badge/Scrum-6DB33F?style=flat)
 
----
-
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=FelipeAndreasSilvaa&show_icons=true&theme=github_dark" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeAndreasSilvaa&layout=compact&theme=github_dark" height="150"/>
-</p>
-
----
-
 
 ### 📫 Contato
 
