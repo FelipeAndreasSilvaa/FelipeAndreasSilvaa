@@ -8,10 +8,9 @@
 
 ### 🧠 Sobre mim
 
-🎓 Graduando em Sistemas de Informação na PUC Campinas (2021–2025)  
+🎓 Graduando em Sistemas de Informação na PUC Campinas
 💻 Experiência com desenvolvimento web completo (frontend e backend)  
 🔧 Apaixonado por boas práticas, performance e usabilidade  
-📌 Atuei com tecnologias como React.js, Node.js, Angular, Tailwind, MongoDB e Python  
 📈 Sempre em busca de aprendizado contínuo e inovação
 
 ---
@@ -19,7 +18,7 @@
 ### 🚀 Tecnologias & Ferramentas
 
 #### 💡 Linguagens e Frontend
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
+![HTML]
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
