@@ -41,15 +41,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=FelipeAndreasSilvaa&show_icons=true&theme=github_dark" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeAndreasSilvaa&layout=compact&theme=github_dark" height="150"/>
-</p>
-
----
-
 ### 📫 Contato
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/felipe-andreas-silva-1a3244208/)
