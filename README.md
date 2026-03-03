@@ -8,7 +8,7 @@
 
 ### 🧠 Sobre mim
 
-<p>🎓 Graduando em Sistemas de Informação na PUC Campinas</p>
+<p>🎓 Graduado em Sistemas de Informação na PUC Campinas</p>
 <p>💻 Experiência com desenvolvimento web completo (frontend e backend)</p>
 <p>🔧 Apaixonado por boas práticas, performance e usabilidade</p>
 <p>📈 Sempre em busca de aprendizado contínuo e inovação</p>
