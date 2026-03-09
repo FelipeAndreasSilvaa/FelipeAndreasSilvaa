@@ -1,7 +1,7 @@
 <h1 align="center">👋 Olá, eu sou o Felipe Andreas!</h1>
 
 <p align="center">
-  Desenvolvedor Full Stack focado em transformar desafios em soluções eficientes e escaláveis que impulsionam resultados 🚀
+ Desenvolvedor Full Stack com conhecimento em Inteligência Artificial, criando soluções escaláveis e eficientes que transformam desafios técnicos em resultados reais. 🚀
 </p>
 
 ---
