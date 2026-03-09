@@ -10,7 +10,7 @@
 
 <p>🎓 Graduado em Sistemas de Informação na PUC Campinas</p>
 <p>💻 Experiência com desenvolvimento web completo (frontend e backend)</p>
-<p>🤖 Experiência com LLMs, RAG, automação e criação de fluxos utilizando Flowise e n8n</p>
+<p>🤖 Experiência com LLMs, automação e criação de fluxos utilizando Flowise e n8n</p>
 <p>🔧 Apaixonado por boas práticas, performance e usabilidade</p>
 <p>📈 Sempre em busca de aprendizado contínuo e inovação</p>
 
