@@ -10,6 +10,7 @@
 
 <p>🎓 Graduado em Sistemas de Informação na PUC Campinas</p>
 <p>💻 Experiência com desenvolvimento web completo (frontend e backend)</p>
+<p>🤖 Experiência com LLMs, RAG, automação e criação de fluxos utilizando Flowise e n8n</p>
 <p>🔧 Apaixonado por boas práticas, performance e usabilidade</p>
 <p>📈 Sempre em busca de aprendizado contínuo e inovação</p>
 
@@ -39,6 +40,10 @@
 ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 ![Scrum](https://img.shields.io/badge/Scrum-6DB33F?style=flat)
+
+### 🤖 Automação   
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat&logo=n8n&logoColor=white)
+![Flowise](https://img.shields.io/badge/Flowise-AI-blue?style=flat&logo=langchain&logoColor=white)
 
 
 ### 📫 Contato
